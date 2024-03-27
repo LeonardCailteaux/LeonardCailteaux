@@ -1,12 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=777777&random=false&width=435&lines=Hey+there%2C+I'm+Leo!)](https://git.io/typing-svg)<br>
 <br>
-I'm a french IT student interested in networks and cybersecurity.
+I'm a french IT student interested in networks and cybersecurity (i use arch btw).
 <br>
 I also do a bit of front-end dev for fun !
 
 ## Languages and tools :
 <div >
-	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" href="https://www.python.org"/></code>
 	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/></code>
 	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="32" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" alt="Vim" title="Vim"/></code>
