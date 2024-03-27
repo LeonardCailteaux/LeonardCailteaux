@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=777777&random=false&width=435&lines=Hey+there%2C+I'm+Leo!)](https://git.io/typing-svg)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=F7F7F7&random=false&width=435&lines=Hey+there%2C+I'm+Leo!)](https://git.io/typing-svg)(./dark.png#gh-dark-mode-only)<br>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=000000&random=false&width=435&lines=Hey+there%2C+I'm+Leo!)](https://git.io/typing-svg)(./light.png#gh-light-mode-only)
 <br>
 I'm a french IT student interested in networks and cybersecurity (i use arch btw).
 <br>
